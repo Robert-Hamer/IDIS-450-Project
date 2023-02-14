@@ -1,3 +1,0 @@
-#start
-data = pd.read_csv('Telco_Churn_Dataset')
-data.dtypes
